@@ -8,9 +8,9 @@ A tarefa quando criada recebe o status de "Pendente". Poderá categorizar, inser
 Após o cadastro, é possível verificar/editar os dados da tarefa.
 Para tarefas realizada, há um botão para sinalizar que está concluída e já não mais aparecerá no filtro da tela inicial, que filtra pela data.
 
-Obs.: Para testar a aplicação
-User: suporte 
-Senha: teste1
+Obs.: Para testar a aplicação <br>
+User: suporte <br>
+Senha: teste1 <br>
 
 https://domandre.outsystemscloud.com/PreviewInDevices/?IsMobilePreview=True&DeviceName=Smartphone&URL=/ToDoProject/Atividades?_ts=638296232364873033
 
